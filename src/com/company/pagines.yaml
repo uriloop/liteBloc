@@ -1,0 +1,11 @@
+pagines:
+  - pagina:
+      nom: "nom"
+      cognom: "cognom"
+      id: "nom cognom"
+      contingut: "titol=nom+cognom"
+  - pagina:
+      nom: "nom2"
+      cognom: "cognom2"
+      id: "nom cognom2"
+      contingut: "contingut de la nota guardada al yaml.2"
